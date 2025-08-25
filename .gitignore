@@ -132,3 +132,10 @@ dmypy.json
 .github/actions-hub
 
 .idea/
+.env
+model.onnx
+model.pth
+classes.txt
+deimkit_backend/model.onnx
+deimkit_backend/classes.txt
+cache.db
